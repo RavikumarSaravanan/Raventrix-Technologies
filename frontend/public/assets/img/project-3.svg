@@ -1,0 +1,55 @@
+<svg width="800" height="480" viewBox="0 0 800 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF8E7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFE0A8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="480" fill="url(#grad3)"/>
+  
+  <!-- Doodle Circle -->
+  <circle cx="400" cy="240" r="180" stroke="#FFD166" stroke-width="3" fill="none" stroke-dasharray="10 8" opacity="0.5"/>
+  
+  <!-- E-commerce Grid -->
+  <rect x="180" y="100" width="150" height="150" rx="14" fill="white" opacity="0.95"/>
+  <rect x="200" y="120" width="110" height="80" rx="8" fill="#FFF3D9"/>
+  <circle cx="255" cy="160" r="25" fill="#FF7A18" opacity="0.4"/>
+  <rect x="200" y="210" width="90" height="10" rx="5" fill="#FFD166"/>
+  <rect x="200" y="228" width="70" height="10" rx="5" fill="#E8E8E8"/>
+  
+  <rect x="350" y="100" width="150" height="150" rx="14" fill="white" opacity="0.95"/>
+  <rect x="370" y="120" width="110" height="80" rx="8" fill="#FFF3D9"/>
+  <circle cx="425" cy="160" r="25" fill="#FF9A44" opacity="0.4"/>
+  <rect x="370" y="210" width="90" height="10" rx="5" fill="#FFD166"/>
+  <rect x="370" y="228" width="70" height="10" rx="5" fill="#E8E8E8"/>
+  
+  <rect x="520" y="100" width="150" height="150" rx="14" fill="white" opacity="0.95"/>
+  <rect x="540" y="120" width="110" height="80" rx="8" fill="#FFF3D9"/>
+  <circle cx="595" cy="160" r="25" fill="#FF7A18" opacity="0.4"/>
+  <rect x="540" y="210" width="90" height="10" rx="5" fill="#FFD166"/>
+  <rect x="540" y="228" width="70" height="10" rx="5" fill="#E8E8E8"/>
+  
+  <rect x="180" y="270" width="150" height="150" rx="14" fill="white" opacity="0.95"/>
+  <rect x="200" y="290" width="110" height="80" rx="8" fill="#FFF3D9"/>
+  <circle cx="255" cy="330" r="25" fill="#FF9A44" opacity="0.4"/>
+  <rect x="200" y="380" width="90" height="10" rx="5" fill="#FFD166"/>
+  <rect x="200" y="398" width="70" height="10" rx="5" fill="#E8E8E8"/>
+  
+  <rect x="350" y="270" width="150" height="150" rx="14" fill="white" opacity="0.95"/>
+  <rect x="370" y="290" width="110" height="80" rx="8" fill="#FFF3D9"/>
+  <circle cx="425" cy="330" r="25" fill="#FF7A18" opacity="0.4"/>
+  <rect x="370" y="380" width="90" height="10" rx="5" fill="#FFD166"/>
+  <rect x="370" y="398" width="70" height="10" rx="5" fill="#E8E8E8"/>
+  
+  <rect x="520" y="270" width="150" height="150" rx="14" fill="white" opacity="0.95"/>
+  <rect x="540" y="290" width="110" height="80" rx="8" fill="#FFF3D9"/>
+  <circle cx="595" cy="330" r="25" fill="#FF9A44" opacity="0.4"/>
+  <rect x="540" y="380" width="90" height="10" rx="5" fill="#FFD166"/>
+  <rect x="540" y="398" width="70" height="10" rx="5" fill="#E8E8E8"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="120" cy="140" r="10" fill="#FF7A18" opacity="0.4"/>
+  <circle cx="700" cy="380" r="12" fill="#FFD166" opacity="0.5"/>
+</svg>
